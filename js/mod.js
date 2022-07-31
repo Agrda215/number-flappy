@@ -18,7 +18,7 @@ let VERSION = {
 }
 
 let changelog = `<h1>Changelog:</h1><br>
-    <h2>Warning: This mod may be unbalanced</h2><br>
+    <h2><iframe src="https://thecreator2022.github.io/flappy/" title="Flappy on The Modding Tree?"></iframe></h2><br>
 	<h3>V.1.2.1 - Bombs and Bricks Part 1<h3><br>
 		- Added 14 new Acievements.<br>
 		- Added 1 Automators.<br>
